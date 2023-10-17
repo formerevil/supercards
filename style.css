@@ -1,0 +1,175 @@
+.card-area {
+    display: flex;
+    flex-wrap: wrap;
+}
+.image-section {
+    position: relative;
+}
+.img-margin {
+    margin: 20px;
+    margin-top: 50px;
+    margin-bottom: 40px;
+}
+.image {
+    border: 11px solid #18243b;
+    margin: 20px;
+}
+.img {
+    margin: 20px;
+}
+.name {
+    color: #e8f694;
+    position: absolute;
+    background-color: rgb(253, 189, 49);
+}
+.info {
+    color: #312907;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    background-color: rgb(253, 189, 49);
+}
+.card1 {
+    background-color: rgb(52, 133, 124);
+    width: 440px;
+    border: 6px solid #101031;
+    display: flow;
+    margin: 20px;
+}
+.card1:hover {
+    box-shadow: 0 8px 16px #0b1025;
+}
+.text1 {
+    margin: 0px;
+    border: 9px solid #18243b;
+    border-left: 14px solid rgb(52, 133, 124);
+}
+.text2 {
+    border: 9px solid #18243b;
+    border-right: 14px solid rgb(52, 133, 124);
+}
+.infoarea {
+    margin: 10px;
+    position: relative;
+    color:  #e8f694;
+}
+.card2{
+    background-color: rgb(46, 68, 112);
+    width: 440px;
+    border: 6px solid #101031;
+    display: flow;
+    margin: 20px;
+}
+.card2:hover {
+    box-shadow: 0 8px 16px #0b1025;
+}
+.text3 {
+    margin: 0px;
+    border: 7px solid #18243b;
+    border-left: 14px solid rgb(46, 68, 112);
+}
+.text4 {
+    border: 7px solid #18243b;
+    border-right: 14px solid rgb(46, 68, 112);
+}
+.infoarea2 {
+    margin: 10px;
+    position: relative;
+    color:  #968cc2;
+}
+.card3{
+    background-color: rgb(119, 57, 70);
+    width: 440px;
+    border: 6px solid #101031;
+    display: flow;
+    margin: 20px;
+}
+.card3:hover {
+    box-shadow: 0 8px 16px #0b1025;
+}
+.text5 {
+    margin: 0px;
+    border: 7px solid #18243b;
+    border-left: 14px solid rgb(119, 57, 70);
+}
+.text6 {
+    border: 7px solid #18243b;
+    border-right: 14px solid rgb(119, 57, 70);
+}
+.infoarea3 {
+    margin: 10px;
+    position: relative;
+    color: rgb(246, 119, 119);
+}
+.card4{
+    background-color: rgb(138, 92, 67);
+    width: 440px;
+    border: 6px solid #101031;
+    display: flow;
+    margin: 20px;
+}
+.card4:hover {
+    box-shadow: 0 8px 16px #0b1025;
+}
+.text7 {
+    margin: 0px;
+    border: 7px solid #18243b;
+    border-left: 14px solid rgb(138, 92, 67);
+}
+.text8 {
+    border: 7px solid #18243b;
+    border-right: 14px solid rgb(138, 92, 67);
+}
+.infoarea4 {
+    margin: 10px;
+    position: relative;
+    color: rgb(255, 231, 89);
+}
+.card5{
+    background-color: rgb(206, 122, 137);
+    width: 440px;
+    border: 6px solid #101031;
+    display: flow;
+    margin: 20px;
+}
+.card5:hover {
+    box-shadow: 0 8px 16px #0b1025;
+}
+.text9 {
+    margin: 0px;
+    border: 7px solid #18243b;
+    border-left: 14px solid rgb(206, 122, 137);
+}
+.text10 {
+    border: 7px solid #18243b;
+    border-right: 14px solid rgb(206, 122, 137);
+}
+.infoarea5 {
+    margin: 10px;
+    position: relative;
+    color: rgb(255, 200, 225);
+}
+.card6{
+    background-color: rgb(90, 136, 75);
+    width: 440px;
+    border: 6px solid #101031;
+    display: flow;
+    margin: 20px;
+}
+.card6:hover {
+    box-shadow: 0 8px 16px #0b1025;
+}
+.text11 {
+    margin: 0px;
+    border: 7px solid #18243b;
+    border-left: 14px solid rgb(90, 136, 75);
+}
+.text12 {
+    border: 7px solid #18243b;
+    border-right: 14px solid rgb(90, 136, 75);
+}
+.infoarea6 {
+    margin: 10px;
+    position: relative;
+    color: rgb(206, 255, 200);
+}
